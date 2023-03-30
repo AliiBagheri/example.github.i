@@ -1,0 +1,10 @@
+git add //stage krdn
+git commit m"massage" //commit krdn
+git status //vaziate fila
+git log //vaziate commit ha
+git diff haad //nshan ddne tqirat akhri
+git diff --staged //tqirate stage shde
+git reset // khrj krdn file az stage
+git checkout --//brgrdndn head b commite qbli
+-A //hmeye fila
+
